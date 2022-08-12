@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... Blockchain - Web and Mobile Applications - AI ML Algorithms 
 
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/amirdoreh/) [Discord](https://discord.gg/HkE2Dxeh)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/amirdoreh/) [Discord](https://discord.gg/HkE2Dxeh) [Medium](https://medium.com/@drhemir)
 
 
 
